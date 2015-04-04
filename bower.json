@@ -1,0 +1,22 @@
+{
+  "name": "socket.io-client",
+  "main": "index.js",
+  "version": "1.3.5",
+  "homepage": "https://github.com/valkirilov/socket.io-client",
+  "authors": [
+    "Guillermo Rauch"
+  ],
+  "description": "A bower package for the client side of the popular socket-io lib",
+  "keywords": [
+    "socket-io"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
